@@ -3,7 +3,7 @@
 <!--
 **Timonso-1/Timonso-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=github,java,kotlin,idea)](https://skillicons.dev)Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
