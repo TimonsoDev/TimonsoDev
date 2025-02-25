@@ -1,6 +1,7 @@
-## Hi, i'm Timonso 👋
+## An aspiring developer
 
-I'm currently learn java and kotlin. --
-I am a young developer with a passion for programming. 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,github&perline=3)](https://skillicons.dev)
+## Stats
+![Timonso-1's Stats](https://github-readme-stats.vercel.app/api?username=Timonso-1&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
 
+## Skills that I am learning
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,github&perline=3)](https://skillicons.dev)
