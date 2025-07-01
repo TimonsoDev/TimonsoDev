@@ -1,4 +1,4 @@
-## 👨‍💻 An aspiring developer
+## 👨‍💻 An budding developer
 
 Hi! I'm Timonso, a developer currently learning Java and Python, mostly for Minecraft and Discord bots!
 
@@ -15,5 +15,5 @@ Hi! I'm Timonso, a developer currently learning Java and Python, mostly for Mine
 ---
 
 ## 📫 Contact
-- Discord: `Timonso`
+- Discord: ```Timonso```
 
