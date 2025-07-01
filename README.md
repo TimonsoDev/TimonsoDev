@@ -5,7 +5,7 @@ Hi! I'm Timonso, a developer currently learning Java and Python, mostly for Mine
 ---
 
 ## 🚀 Skills that I am learning
-[![My Skills](https://skillicons.dev/icons?i=idea,github,java,kotlin,python,gradle&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,github,java,python,gradle&perline=6)](https://skillicons.dev)
 
 ---
 
