@@ -15,8 +15,4 @@ Hi! I'm Timonso, a developer currently learning Java and Python, mostly for Mine
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Timonso&theme=tokyonight&layout=compact&langs_count=10&hide_title=true)
 
 
----
-
-## 📫 Contact
-- Discord: ```Timonso```
 
