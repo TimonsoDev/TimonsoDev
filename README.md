@@ -10,7 +10,7 @@
 ---
 
 ## 📊 Stats
-![TimonsoDev's Stats](https://github-readme-stats.vercel.app/api?username=TimonsoDev&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![TimonsoDev's Stats](https://github-readme-stats.vercel.app/api?username=TimonsoDev&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Timonso&theme=tokyonight&layout=compact&langs_count=10&hide_title=true)
 
