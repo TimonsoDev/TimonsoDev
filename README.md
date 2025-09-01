@@ -1,11 +1,11 @@
 ## 👨‍💻 An budding developer
 
-Hi! I'm Timonso, a developer currently learning Java and Python, mostly for Minecraft and Discord bots!
+🎯 A budding developer from Germany, currently learning Java and mainly focused on building Minecraft plugins.
 
 ---
 
 ## 🚀 Skills that I am learning
-[![My Skills](https://skillicons.dev/icons?i=java,python,vscode,intellij&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,gradle,vscode,idea,github&perline=8)](https://skillicons.dev)
 
 ---
 
