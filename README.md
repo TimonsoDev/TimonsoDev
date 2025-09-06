@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Skills that I am learning
-[![My Skills](https://skillicons.dev/icons?i=java,gradle,vscode,idea,github&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,gradle,vscode,idea,github&perline=8)](https://skillicons.dev)
 
 ---
 
